@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+
+.active {
+    font-weight: bold;
+    color: rgb(127, 127, 248);
+}
+
+.frameWrapper {
+    position: relative;
+    overflow: hidden;
+}
